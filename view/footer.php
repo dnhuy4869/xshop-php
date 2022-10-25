@@ -1,0 +1,1 @@
+<footer class="row alert alert-success">Copyright &copy; 2022</footer>
